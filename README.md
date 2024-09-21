@@ -11,6 +11,10 @@ This is a fullstack blog application built using **Next.js**, **TypeScript**, an
 - 🛠️ Built with **TypeScript** for type safety
 - 🚀 API routes with Next.js for handling requests (simulated for now)
 
+## Demo
+
+![Blog App Demo (Vercel)](https://next-blog-pp.vercel.app/)
+
 ## Table of Contents
 
 - [Technologies](#technologies)
